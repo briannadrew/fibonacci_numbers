@@ -1,7 +1,6 @@
 /*
 Program Name: Assignment_1
 Author: Brianna Drew
-Student No.: 0622446
 Date Created: 02/02/2019
 Last Modified: 02/05/2019
 */
